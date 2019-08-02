@@ -1,4 +1,5 @@
 <?php 
+include "menu.php";
 echo isset($_GET['r'])?"guardado ok":"";
 
  ?>
